@@ -1,0 +1,6 @@
+{
+  "name": "Vyapar Taraju",
+  "description": "A smart business calculator for kirana stores, grocery shops, vegetable sellers, dairy shops, and small businesses to calculate weight, amount, and daily calculations quickly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
